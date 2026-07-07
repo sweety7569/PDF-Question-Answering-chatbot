@@ -6,4 +6,5 @@ langchain-text-splitters
 google-generativeai
 numpy
 torch
+torchvision
 transformers
