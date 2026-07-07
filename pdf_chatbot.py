@@ -12,7 +12,7 @@ import google.generativeai as genai
 genai.configure(api_key="MY_KEY")
 
 # Gemini Model
-gemini_model = genai.GenerativeModel("gemini-2.5-flash")
+gemini_model = genai.GenerativeModel("gemini-2.0-flash")
 
 # Streamlit Title
 st.title("📄 PDF Question Answering Chatbot")
