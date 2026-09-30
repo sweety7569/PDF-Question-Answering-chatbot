@@ -30,4 +30,4 @@ Generate embeddings using Sentence Transformers.
 Store embeddings in a FAISS vector database.
 Retrieve the most relevant chunks based on the user's query.
 Send the retrieved context and question to Google Gemini.
-Display the AI-generated answer.
+Display the AI-generated answer
